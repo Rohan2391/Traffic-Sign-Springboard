@@ -1,0 +1,5 @@
+django
+pillow
+tensorflow
+opencv-python
+keras
